@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+refs/
+clouds/
+elements/
+*.mp4
+*.wav
+*.mp3
+!docs/stills/*.png
+.DS_Store
